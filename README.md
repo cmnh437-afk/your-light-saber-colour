@@ -1,4 +1,3 @@
-# your-light-saber-colour
 <!DOCTYPE html>
 <html lang="en">
 <head>
